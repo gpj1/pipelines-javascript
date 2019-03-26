@@ -1,4 +1,4 @@
-https://dz00lfyjpsbft.cloudfront.net/homepage/
+[![Build Status](https://dev.azure.com/JaysOrg/pipelines-javascript/_apis/build/status/gpj1.pipelines-javascript?branchName=master)](https://dev.azure.com/JaysOrg/pipelines-javascript/_build/latest?definitionId=1&branchName=master)
 
 # Sample NodeJS application for Azure Pipelines docs
 
